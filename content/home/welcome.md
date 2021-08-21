@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **SARS Research** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **SARS Research** a global center of excellence for Artificial Intelligence research, teaching, and practice.
